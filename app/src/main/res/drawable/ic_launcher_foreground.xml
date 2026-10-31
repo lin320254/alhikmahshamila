@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Star / Emblem at the top -->
+    <path
+        android:fillColor="#F6D268"
+        android:pathData="M54,24 L55.8,29.5 L61.5,29.5 L56.9,32.8 L58.7,38.3 L54,34.9 L49.3,38.3 L51.1,32.8 L46.5,29.5 L52.2,29.5 Z" />
+
+    <!-- Left Book Page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,42 C46,39 36,39 28,42 C26.5,42.5 26,44 26,45.5 L26,67 C26,68.2 27.2,69.2 28.5,68.8 C36,66 45.5,66 52,69 Z" />
+
+    <!-- Right Book Page -->
+    <path
+        android:fillColor="#F5F5F5"
+        android:pathData="M56,42 C62,39 72,39 80,42 C81.5,42.5 82,44 82,45.5 L82,67 C82,68.2 80.8,69.2 79.5,68.8 C72,66 62.5,66 56,69 Z" />
+
+    <!-- Left Page Inner Lines -->
+    <path
+        android:fillColor="#E0E6ED"
+        android:pathData="M31,48 L48,46 L48,47.5 L31,49.5 Z M31,52 L48,50 L48,51.5 L31,53.5 Z M31,56 L48,54 L48,55.5 L31,57.5 Z M31,60 L45,58.5 L45,60 L31,61.5 Z" />
+
+    <!-- Right Page Inner Lines -->
+    <path
+        android:fillColor="#D8DEE6"
+        android:pathData="M60,46 L77,48 L77,49.5 L60,47.5 Z M60,50 L77,52 L77,53.5 L60,51.5 Z M60,54 L77,56 L77,57.5 L60,55.5 Z M63,58.5 L77,60 L77,61.5 L63,60 Z" />
+
+    <!-- Gold Bookmark Ribbon in center -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M52.5,41 L55.5,41 L55.5,64 L54,62 L52.5,64 Z" />
+
+    <!-- Wooden Rehal / Book Stand -->
+    <path
+        android:fillColor="#C59A4E"
+        android:pathData="M51,71 L51,76 C46,78 37,81 31,83.5 L34,85.5 C41,83 48,80.5 54,78.5 C60,80.5 67,83 74,85.5 L77,83.5 C71,81 62,78 57,76 L57,71 C55.5,71.5 52.5,71.5 51,71 Z" />
+</vector>

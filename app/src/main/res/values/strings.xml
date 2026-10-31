@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">المكتبة الحكمه</string>
+    <string name="app_subtitle">المكتبة الإسلامية الرقمية وقارئ الكتب</string>
+    <string name="search_hint">စာအုပ်အမည်၊ ဆရာအမည် ရှာရန်...</string>
+    <string name="all_categories">အားလုံး</string>
+    <string name="favorites">အကြိုက်ဆုံးများ</string>
+    <string name="add_book">စာအုပ်အသစ်ထည့်မည်</string>
+    <string name="add_category">အကန့်အသစ်</string>
+    <string name="category_label">အကန့် / ကဏ္ဍ</string>
+    <string name="book_title_label">စာအုပ်အမည်</string>
+    <string name="book_author_label">ကျမ်းပြုဆရာ (မဖြစ်မနေ မဟုတ်ပါ)</string>
+    <string name="book_url_label">စာအုပ်ဝက်ဘ်လင့်ခ် (Web Link / URL)</string>
+    <string name="book_notes_label">မှတ်ချက် / အကျဉ်းချုပ် (မဖြစ်မနေ မဟုတ်ပါ)</string>
+    <string name="save_action">သိမ်းဆည်းမည်</string>
+    <string name="cancel_action">မလုပ်တော့ပါ</string>
+    <string name="read_now">ဖတ်ရှုမည်</string>
+    <string name="open_browser">Browser တွင်ဖွင့်မည်</string>
+    <string name="copy_link">လင့်ခ်ကူးယူမည်</string>
+    <string name="link_copied">လင့်ခ်ကို ကူးယူပြီးပါပြီ</string>
+    <string name="delete_action">ဖျက်မည်</string>
+    <string name="edit_action">ပြင်ဆင်မည်</string>
+    <string name="confirm_delete_title">ဖျက်ရန် သေချာပါသလား?</string>
+    <string name="confirm_delete_msg">ဤစာအုပ်ကို စာရင်းမှ ဖျက်ပစ်ပါမည်။</string>
+    <string name="empty_books">စာအုပ်များ မရှိသေးပါ</string>
+    <string name="empty_search">ရှာဖွေတွေ့ရှိသော စာအုပ်မရှိပါ</string>
+    <string name="enter_valid_url">မှန်ကန်သော ဝက်ဘ်လင့်ခ် ရိုက်ထည့်ပါ (ဥပမာ https://shamela.ws/book/...)</string>
+    <string name="enter_title_error">စာအုပ်အမည် ရိုက်ထည့်ပါ</string>
+    <string name="category_name_label">အကန့်အမည်</string>
+    <string name="retry">ပြန်လည်ကြိုးစားမည်</string>
+    <string name="error_loading_web">ဝက်ဘ်စာမျက်နှာ ဖွင့်၍မရပါ</string>
+    <string name="fullscreen_mode">မျက်နှာပြင်ပြည့်</string>
+    <string name="exit_fullscreen">မျက်နှာပြင်ပြည့်မှ ထွက်မည်</string>
+</resources>

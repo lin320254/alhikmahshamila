@@ -1,0 +1,8 @@
+{
+  "name": "Remix Shamila Reader",
+  "description": "Maktabah Shamila digital library and web reader app with categorized Islamic books, custom link additions, and in-app web browser reading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
